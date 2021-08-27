@@ -17,8 +17,10 @@ export default function About() {
 
       <Paragraph>
         Comecei a estudar programação em 2021. Sou aluna da Blue edtech e também estudo Análise e desenvolvimento de sistemas.
-        Em breve realizarei meu sonho de entrar para o mercado de trabalho na área de tecnologia.<hr />
-        Se gostou do CRUD me siga nas redes sociais abaixo </Paragraph>
+        Em breve realizarei meu sonho de entrar para o mercado de trabalho na área de tecnologia.
+      </Paragraph>
+
+      <Paragraph>Se gostou do CRUD me siga nas redes sociais abaixo:</Paragraph>
 
 
       <S.SocialBlock>
